@@ -1,4 +1,5 @@
 **About This Project**
+
 Handover Checklist & NPI Project Manager is a Python-based GUI application built using PyQt6 to help manage New Product Introduction (NPI) workflows efficiently. It allows engineers to add, view, and update projects, track MES information, and maintain detailed build, assembly, and machine matrices.
 
 The application stores all project data in a SQLite database, with an optional Excel fallback if the database record is not found. Users can also manage checklists, handover documents, and generate reports in PDF or Word format.
